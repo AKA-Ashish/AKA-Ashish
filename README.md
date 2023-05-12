@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
-<!-- <div id="header" align="center">
-  <a href="https://pixabay.com/illustrations/digital-abstract-binary-code-1742679/">
-</div> -->
 
 <div id="badges">
   
