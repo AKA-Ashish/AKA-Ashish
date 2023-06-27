@@ -10,6 +10,9 @@
   <br>
 
 [![](https://visitcount.itsvg.in/api?id=AKA-Ashish&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AKA-Ashish&label=Profile%20Views&color=1&pretty=false" />
+</a>
 
 
 
